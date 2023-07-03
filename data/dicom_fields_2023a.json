@@ -1,0 +1,4297 @@
+{
+    "D_TAGS": [
+        {
+            "tag": [
+                "0x0018",
+                "0x11BB"
+            ],
+            "name": "Acquisition Field Of View Label"
+        },
+        {
+            "tag": [
+                "0x006A",
+                "0x0005"
+            ],
+            "name": "Annotation Group Label"
+        },
+        {
+            "tag": [
+                "0x006A",
+                "0x0003"
+            ],
+            "name": "Annotation Group UID"
+        },
+        {
+            "tag": [
+                "0x0044",
+                "0x0104"
+            ],
+            "name": "Assertion DateTime"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0562"
+            ],
+            "name": "Attribute Modification DateTime"
+        },
+        {
+            "tag": [
+                "0x300C",
+                "0x0127"
+            ],
+            "name": "Beam Hold Transition DateTime"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0115"
+            ],
+            "name": "Certificate of Signer"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0081"
+            ],
+            "name": "Clinical Trial Protocol Ethics Committee Name"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0020"
+            ],
+            "name": "Clinical Trial Protocol ID"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0010"
+            ],
+            "name": "Clinical Trial Sponsor Name"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0040"
+            ],
+            "name": "Clinical Trial Subject ID"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0042"
+            ],
+            "name": "Clinical Trial Subject Reading ID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0512"
+            ],
+            "name": "Container Identifier"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA730"
+            ],
+            "name": "Content Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0107"
+            ],
+            "name": "Context Group Local Version"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0106"
+            ],
+            "name": "Context Group Version"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA121"
+            ],
+            "name": "Date"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA120"
+            ],
+            "name": "DateTime"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9701"
+            ],
+            "name": "Decay Correction DateTime"
+        },
+        {
+            "tag": [
+                "0x2100",
+                "0x0140"
+            ],
+            "name": "Destination AE"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x002D"
+            ],
+            "name": "Device Label"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0105"
+            ],
+            "name": "Digital Signature DateTime"
+        },
+        {
+            "tag": [
+                "0x0068",
+                "0x6226"
+            ],
+            "name": "Effective DateTime"
+        },
+        {
+            "tag": [
+                "0x0042",
+                "0x0011"
+            ],
+            "name": "Encapsulated Document"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0035"
+            ],
+            "name": "Entity Label"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0038"
+            ],
+            "name": "Entity Long Label"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9804"
+            ],
+            "name": "Exclusion Start DateTime"
+        },
+        {
+            "tag": [
+                "0x0034",
+                "0x0002"
+            ],
+            "name": "Flow Identifier"
+        },
+        {
+            "tag": [
+                "0x0034",
+                "0x0001"
+            ],
+            "name": "Flow Identifier Sequence"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9074"
+            ],
+            "name": "Frame Acquisition DateTime"
+        },
+        {
+            "tag": [
+                "0x0034",
+                "0x0007"
+            ],
+            "name": "Frame Origin Timestamp"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9151"
+            ],
+            "name": "Frame Reference DateTime"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9623"
+            ],
+            "name": "Functional Sync Pulse"
+        },
+        {
+            "tag": [
+                "0x0070",
+                "0x0001"
+            ],
+            "name": "Graphic Annotation Sequence"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x000A"
+            ],
+            "name": "Hanging Protocol Creation DateTime"
+        },
+        {
+            "tag": [
+                "0x003A",
+                "0x0314"
+            ],
+            "name": "Impedance Measurement DateTime"
+        },
+        {
+            "tag": [
+                "0x0068",
+                "0x6270"
+            ],
+            "name": "Information Issue DateTime"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0741"
+            ],
+            "name": "Interlock DateTime"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0742"
+            ],
+            "name": "Interlock Description"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0783"
+            ],
+            "name": "Interlock Origin Description"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0563"
+            ],
+            "name": "Modifying System"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0760"
+            ],
+            "name": "Override DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1101"
+            ],
+            "name": "Person Identification Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA123"
+            ],
+            "name": "Person Name"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0619"
+            ],
+            "name": "Radiation Dose Identification Label"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0623"
+            ],
+            "name": "Radiation Dose In-Vivo Measurement Label"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x067C"
+            ],
+            "name": "Radiation Generation Mode Label"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0565"
+            ],
+            "name": "Reason for the Attribute Modification"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x073A"
+            ],
+            "name": "Recorded RT Control Point DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA13A"
+            ],
+            "name": "Referenced DateTime"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0002"
+            ],
+            "name": "RT Plan Label"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0054"
+            ],
+            "name": "RT Prescription Label"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x062A"
+            ],
+            "name": "RT Tolerance Set Label"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0162"
+            ],
+            "name": "Safe Position Exit Date"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0164"
+            ],
+            "name": "Safe Position Exit Time"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0166"
+            ],
+            "name": "Safe Position Return Date"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0168"
+            ],
+            "name": "Safe Position Return Time"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x005E"
+            ],
+            "name": "Selector AE Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x005F"
+            ],
+            "name": "Selector AS Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x0061"
+            ],
+            "name": "Selector DA Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x0063"
+            ],
+            "name": "Selector DT Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x0066"
+            ],
+            "name": "Selector LO Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x0068"
+            ],
+            "name": "Selector LT Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x0065"
+            ],
+            "name": "Selector OB Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x006A"
+            ],
+            "name": "Selector PN Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x006C"
+            ],
+            "name": "Selector SH Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x006E"
+            ],
+            "name": "Selector ST Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x006B"
+            ],
+            "name": "Selector TM Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x006D"
+            ],
+            "name": "Selector UN Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x0071"
+            ],
+            "name": "Selector UR Value"
+        },
+        {
+            "tag": [
+                "0x0072",
+                "0x0070"
+            ],
+            "name": "Selector UT Value"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x936A"
+            ],
+            "name": "Source End DateTime"
+        },
+        {
+            "tag": [
+                "0x0034",
+                "0x0005"
+            ],
+            "name": "Source Identifier"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9369"
+            ],
+            "name": "Source Start DateTime"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x022C"
+            ],
+            "name": "Source Strength Reference Date"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x022E"
+            ],
+            "name": "Source Strength Reference Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0551"
+            ],
+            "name": "Specimen Identifier"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0002"
+            ],
+            "name": "Structure Set Label"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA122"
+            ],
+            "name": "Time"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0024"
+            ],
+            "name": "Treatment Control Point Date"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0025"
+            ],
+            "name": "Treatment Control Point Time"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0608"
+            ],
+            "name": "Treatment Position Group Label"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0736"
+            ],
+            "name": "Treatment Tolerance Violation DateTime"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0734"
+            ],
+            "name": "Treatment Tolerance Violation Description"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0033"
+            ],
+            "name": "User Content Label"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0034"
+            ],
+            "name": "User Content Long Label"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA030"
+            ],
+            "name": "Verification DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA075"
+            ],
+            "name": "Verifying Observer Name"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA073"
+            ],
+            "name": "Verifying Observer Sequence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA027"
+            ],
+            "name": "Verifying Organization"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9371"
+            ],
+            "name": "X-Ray Detector ID"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9367"
+            ],
+            "name": "X-Ray Source ID"
+        }
+    ],
+    "U_TAGS": [
+        {
+            "tag": [
+                "0x0008",
+                "0x0017"
+            ],
+            "name": "Acquisition UID"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x9161"
+            ],
+            "name": "Concatenation UID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0006"
+            ],
+            "name": "Conceptual Volume UID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0013"
+            ],
+            "name": "Constituent Conceptual Volume UID"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1002"
+            ],
+            "name": "Device UID"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0100"
+            ],
+            "name": "Digital Signature UID"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x9164"
+            ],
+            "name": "Dimension Organization UID"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0013"
+            ],
+            "name": "Dose Reference UID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x006E"
+            ],
+            "name": "Dosimetric Objective UID"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0058"
+            ],
+            "name": "Failed SOP Instance UID List"
+        },
+        {
+            "tag": [
+                "0x0070",
+                "0x031A"
+            ],
+            "name": "Fiducial UID"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x0052"
+            ],
+            "name": "Frame of Reference UID"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0014"
+            ],
+            "name": "Instance Creator UID"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x3010"
+            ],
+            "name": "Irradiation Event UID"
+        },
+        {
+            "tag": [
+                "0x0028",
+                "0x1214"
+            ],
+            "name": "Large Palette Color Lookup Table UID"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x100B"
+            ],
+            "name": "Manufacturer's Device Class UID"
+        },
+        {
+            "tag": [
+                "0x0002",
+                "0x0003"
+            ],
+            "name": "Media Storage SOP Instance UID"
+        },
+        {
+            "tag": [
+                "0x003A",
+                "0x0310"
+            ],
+            "name": "Multiplex Group UID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA402"
+            ],
+            "name": "Observation Subject UID (Trial)"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA171"
+            ],
+            "name": "Observation UID"
+        },
+        {
+            "tag": [
+                "0x0028",
+                "0x1199"
+            ],
+            "name": "Palette Color Lookup Table UID"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0650"
+            ],
+            "name": "Patient Setup UID"
+        },
+        {
+            "tag": [
+                "0x0070",
+                "0x1101"
+            ],
+            "name": "Presentation Display Collection UID"
+        },
+        {
+            "tag": [
+                "0x0070",
+                "0x1102"
+            ],
+            "name": "Presentation Sequence Collection UID"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0019"
+            ],
+            "name": "Pyramid UID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x000B"
+            ],
+            "name": "Referenced Conceptual Volume UID"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0083"
+            ],
+            "name": "Referenced Dose Reference UID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x006F"
+            ],
+            "name": "Referenced Dosimetric Objective UID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0031"
+            ],
+            "name": "Referenced Fiducials UID"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0024"
+            ],
+            "name": "Referenced Frame of Reference UID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4023"
+            ],
+            "name": "Referenced General Purpose Scheduled Procedure Step Transaction UID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA172"
+            ],
+            "name": "Referenced Observation UID (Trial)"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1155"
+            ],
+            "name": "Referenced SOP Instance UID"
+        },
+        {
+            "tag": [
+                "0x0004",
+                "0x1511"
+            ],
+            "name": "Referenced SOP Instance UID in File"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0785"
+            ],
+            "name": "Referenced Treatment Position Group UID"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x00C2"
+            ],
+            "name": "Related Frame of Reference UID"
+        },
+        {
+            "tag": [
+                "0x0000",
+                "0x1001"
+            ],
+            "name": "Requested SOP Instance UID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x003B"
+            ],
+            "name": "RT Treatment Phase UID"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x000E"
+            ],
+            "name": "Series Instance UID"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0018"
+            ],
+            "name": "SOP Instance UID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0015"
+            ],
+            "name": "Source Conceptual Volume UID"
+        },
+        {
+            "tag": [
+                "0x0064",
+                "0x0003"
+            ],
+            "name": "Source Frame of Reference UID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0554"
+            ],
+            "name": "Specimen UID"
+        },
+        {
+            "tag": [
+                "0x0088",
+                "0x0140"
+            ],
+            "name": "Storage Media File-set UID"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x000D"
+            ],
+            "name": "Study Instance UID"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x0200"
+            ],
+            "name": "Synchronization Frame of Reference UID"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x2042"
+            ],
+            "name": "Target UID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xDB0D"
+            ],
+            "name": "Template Extension Creator UID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xDB0C"
+            ],
+            "name": "Template Extension Organization UID"
+        },
+        {
+            "tag": [
+                "0x0062",
+                "0x0021"
+            ],
+            "name": "Tracking UID"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1195"
+            ],
+            "name": "Transaction UID"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0609"
+            ],
+            "name": "Treatment Position Group UID"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0700"
+            ],
+            "name": "Treatment Session UID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA124"
+            ],
+            "name": "UID"
+        }
+    ],
+    "X_TAGS": [
+        {
+            "tag": [
+                "0x0018",
+                "0x4000"
+            ],
+            "name": "Acquisition Comments"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9424"
+            ],
+            "name": "Acquisition Protocol Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4035"
+            ],
+            "name": "Actual Human Performers Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x21B0"
+            ],
+            "name": "Additional Patient History"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA353"
+            ],
+            "name": "Address (Trial)"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0010"
+            ],
+            "name": "Admission ID"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0020"
+            ],
+            "name": "Admitting Date"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1084"
+            ],
+            "name": "Admitting Diagnoses Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1080"
+            ],
+            "name": "Admitting Diagnoses Description"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0021"
+            ],
+            "name": "Admitting Time"
+        },
+        {
+            "tag": [
+                "0x0000",
+                "0x1000"
+            ],
+            "name": "Affected SOP Instance UID"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2110"
+            ],
+            "name": "Allergies"
+        },
+        {
+            "tag": [
+                "0x006A",
+                "0x0006"
+            ],
+            "name": "Annotation Group Description"
+        },
+        {
+            "tag": [
+                "0x0044",
+                "0x0004"
+            ],
+            "name": "Approval Status DateTime"
+        },
+        {
+            "tag": [
+                "0x4000",
+                "0x0010"
+            ],
+            "name": "Arbitrary"
+        },
+        {
+            "tag": [
+                "0x0044",
+                "0x0105"
+            ],
+            "name": "Assertion Expiration DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA078"
+            ],
+            "name": "Author Observer Sequence"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x00C3"
+            ],
+            "name": "Beam Description"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x00DD"
+            ],
+            "name": "Bolus Description"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1081"
+            ],
+            "name": "Branch of Service"
+        },
+        {
+            "tag": [
+                "0x0014",
+                "0x407E"
+            ],
+            "name": "Calibration Date"
+        },
+        {
+            "tag": [
+                "0x0014",
+                "0x407C"
+            ],
+            "name": "Calibration Time"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x004D"
+            ],
+            "name": "Camera Owner Name"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1007"
+            ],
+            "name": "Cassette ID"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0310"
+            ],
+            "name": "Certified Timestamp"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0082"
+            ],
+            "name": "Clinical Trial Protocol Ethics Committee Approval Number"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0072"
+            ],
+            "name": "Clinical Trial Series Description"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0071"
+            ],
+            "name": "Clinical Trial Series ID"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0051"
+            ],
+            "name": "Clinical Trial Time Point Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0310"
+            ],
+            "name": "Comments on Radiation Dose"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0280"
+            ],
+            "name": "Comments on the Performed Procedure Step"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x02EB"
+            ],
+            "name": "Compensator Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x3001"
+            ],
+            "name": "Confidentiality Constraint on Patient Data Description"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x009D"
+            ],
+            "name": "Consulting Physician Identification Sequence"
+        },
+        {
+            "tag": [
+                "0x0050",
+                "0x001B"
+            ],
+            "name": "Container Component ID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x051A"
+            ],
+            "name": "Container Description"
+        },
+        {
+            "tag": [
+                "0x0070",
+                "0x0086"
+            ],
+            "name": "Content Creator's Identification Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1042"
+            ],
+            "name": "Contrast/Bolus Start Time"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1043"
+            ],
+            "name": "Contrast/Bolus Stop Time"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0xA002"
+            ],
+            "name": "Contribution DateTime"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0xA003"
+            ],
+            "name": "Contribution Description"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2150"
+            ],
+            "name": "Country of Residence"
+        },
+        {
+            "tag": [
+                "0x2100",
+                "0x0040"
+            ],
+            "name": "Creation Date"
+        },
+        {
+            "tag": [
+                "0x2100",
+                "0x0050"
+            ],
+            "name": "Creation Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA307"
+            ],
+            "name": "Current Observer (Trial)"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0300"
+            ],
+            "name": "Current Patient Location"
+        },
+        {
+            "tag": [
+                "0x50xx",
+                "0xxxxx"
+            ],
+            "name": "Curve Data"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0025"
+            ],
+            "name": "Curve Date"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0035"
+            ],
+            "name": "Curve Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA07C"
+            ],
+            "name": "Custodial Organization Sequence"
+        },
+        {
+            "tag": [
+                "0xFFFC",
+                "0xFFFC"
+            ],
+            "name": "Data Set Trailing Padding"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA110"
+            ],
+            "name": "Date of Document or Verbal Transaction (Trial)"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1200"
+            ],
+            "name": "Date of Last Calibration"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1012"
+            ],
+            "name": "Date of Secondary Capture"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1202"
+            ],
+            "name": "DateTime of Last Calibration"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x937F"
+            ],
+            "name": "Decomposition Description"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x2111"
+            ],
+            "name": "Derivation Description"
+        },
+        {
+            "tag": [
+                "0x0050",
+                "0x0020"
+            ],
+            "name": "Device Description"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x004B"
+            ],
+            "name": "Device Setting Description"
+        },
+        {
+            "tag": [
+                "0xFFFA",
+                "0xFFFA"
+            ],
+            "name": "Digital Signatures Sequence"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0030"
+            ],
+            "name": "Discharge Date"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0040"
+            ],
+            "name": "Discharge Diagnosis Description"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0032"
+            ],
+            "name": "Discharge Time"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x079A"
+            ],
+            "name": "Displacement Reference Label"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x011A"
+            ],
+            "name": "Distribution Address"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0119"
+            ],
+            "name": "Distribution Name"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0016"
+            ],
+            "name": "Dose Reference Description"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0037"
+            ],
+            "name": "Entity Description"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0036"
+            ],
+            "name": "Entity Name"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0676"
+            ],
+            "name": "Equipment Frame of Reference Description"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0087"
+            ],
+            "name": "Ethics Committee Approval Effectiveness End Date"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0086"
+            ],
+            "name": "Ethics Committee Approval Effectiveness Start Date"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2160"
+            ],
+            "name": "Ethnic Group"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4011"
+            ],
+            "name": "Expected Completion DateTime"
+        },
+        {
+            "tag": [
+                "0x003A",
+                "0x032B"
+            ],
+            "name": "Filter Lookup Table Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA023"
+            ],
+            "name": "Findings Group Recording Date (Trial)"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA024"
+            ],
+            "name": "Findings Group Recording Time (Trial)"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0196"
+            ],
+            "name": "Fixation Device Description"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0072"
+            ],
+            "name": "Fraction Group Description"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x9158"
+            ],
+            "name": "Frame Comments"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1008"
+            ],
+            "name": "Gantry ID"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1005"
+            ],
+            "name": "Generator ID"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0076"
+            ],
+            "name": "GPS Altitude\u200b"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0075"
+            ],
+            "name": "GPS Altitude\u200b Ref"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x008C"
+            ],
+            "name": "GPS Area \u200bInformation"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x008D"
+            ],
+            "name": "GPS Date\u200b Stamp"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0088"
+            ],
+            "name": "GPS Dest \u200bBearing"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0087"
+            ],
+            "name": "GPS Dest\u200b Bearing Ref"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x008A"
+            ],
+            "name": "GPS Dest \u200bDistance"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0089"
+            ],
+            "name": "GPS Dest \u200bDistance Ref"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0084"
+            ],
+            "name": "GPS Dest\u200b Latitude"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0083"
+            ],
+            "name": "GPS Dest\u200b Latitude Ref"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0086"
+            ],
+            "name": "GPS Dest \u200bLongitude"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0085"
+            ],
+            "name": "GPS Dest \u200bLongitude Ref"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x008E"
+            ],
+            "name": "GPS Differential"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x007B"
+            ],
+            "name": "GPS DOP"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0081"
+            ],
+            "name": "GPS Img \u200bDirection"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0080"
+            ],
+            "name": "GPS Img\u200b Direction Ref"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0072"
+            ],
+            "name": "GPS Latitude\u200b"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0071"
+            ],
+            "name": "GPS Latitude\u200b Ref"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0074"
+            ],
+            "name": "GPS Longitude"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0073"
+            ],
+            "name": "GPS Longitude Ref"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0082"
+            ],
+            "name": "GPS Map\u200b Datum"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x007A"
+            ],
+            "name": "GPS Measure \u200bMode"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x008B"
+            ],
+            "name": "GPS Processing\u200b Method"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0078"
+            ],
+            "name": "GPS Satellites"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x007D"
+            ],
+            "name": "GPS Speed\u200b"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x007C"
+            ],
+            "name": "GPS Speed\u200b Ref"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0079"
+            ],
+            "name": "GPS Status"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0077"
+            ],
+            "name": "GPS Time\u200b Stamp"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x007F"
+            ],
+            "name": "GPS Track"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x007E"
+            ],
+            "name": "GPS Track \u200bRef"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0070"
+            ],
+            "name": "GPS Version ID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xE004"
+            ],
+            "name": "HL7 Document Effective Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4037"
+            ],
+            "name": "Human Performer's Name"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4036"
+            ],
+            "name": "Human Performer's Organization"
+        },
+        {
+            "tag": [
+                "0x0088",
+                "0x0200"
+            ],
+            "name": "Icon Image Sequence (see Note 12)"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x4000"
+            ],
+            "name": "Identifying Comments"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x4000"
+            ],
+            "name": "Image Comments"
+        },
+        {
+            "tag": [
+                "0x0028",
+                "0x4000"
+            ],
+            "name": "Image Presentation Comments"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2400"
+            ],
+            "name": "Imaging Service Request Comments"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0300"
+            ],
+            "name": "Impressions"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0015"
+            ],
+            "name": "Instance Coercion DateTime"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0600"
+            ],
+            "name": "Instance Origin Status"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0081"
+            ],
+            "name": "Institution Address"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1040"
+            ],
+            "name": "Institutional Department Name"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1041"
+            ],
+            "name": "Institutional Department Type Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1050"
+            ],
+            "name": "Insurance Plan Identification"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0085"
+            ],
+            "name": "Intended Fraction Start Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1011"
+            ],
+            "name": "Intended Recipients of Results Identification Sequence"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0112"
+            ],
+            "name": "Interpretation Approval Date"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0113"
+            ],
+            "name": "Interpretation Approval Time"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0111"
+            ],
+            "name": "Interpretation Approver Sequence"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x010C"
+            ],
+            "name": "Interpretation Author"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0115"
+            ],
+            "name": "Interpretation Diagnosis Description"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0200"
+            ],
+            "name": "Interpretation ID"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0202"
+            ],
+            "name": "Interpretation ID Issuer"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0100"
+            ],
+            "name": "Interpretation Recorded Date"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0101"
+            ],
+            "name": "Interpretation Recorded Time"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0102"
+            ],
+            "name": "Interpretation Recorder"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x010B"
+            ],
+            "name": "Interpretation Text"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x010A"
+            ],
+            "name": "Interpretation Transcriber"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0108"
+            ],
+            "name": "Interpretation Transcription Date"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0109"
+            ],
+            "name": "Interpretation Transcription Time"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x0035"
+            ],
+            "name": "Intervention Drug Start Time"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x0027"
+            ],
+            "name": "Intervention Drug Stop Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2004"
+            ],
+            "name": "Issue Date of Imaging Service Request"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0011"
+            ],
+            "name": "Issuer of Admission ID"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0014"
+            ],
+            "name": "Issuer of Admission ID Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x0021"
+            ],
+            "name": "Issuer of Patient ID"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0061"
+            ],
+            "name": "Issuer of Service Episode ID"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0064"
+            ],
+            "name": "Issuer of Service Episode ID Sequence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2005"
+            ],
+            "name": "Issue Time of Imaging Service Request"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x21D0"
+            ],
+            "name": "Last Menstrual Date"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x004F"
+            ],
+            "name": "Lens Make"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0050"
+            ],
+            "name": "Lens Model"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x0051"
+            ],
+            "name": "Lens Serial Number"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x004E"
+            ],
+            "name": "Lens Specification"
+        },
+        {
+            "tag": [
+                "0x0050",
+                "0x0021"
+            ],
+            "name": "Long Device Description"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0404"
+            ],
+            "name": "MAC"
+        },
+        {
+            "tag": [
+                "0x0016",
+                "0x002B"
+            ],
+            "name": "Maker Note"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2000"
+            ],
+            "name": "Medical Alerts"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1090"
+            ],
+            "name": "Medical Record Locator"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1080"
+            ],
+            "name": "Military Rank"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0550"
+            ],
+            "name": "Modified Attributes Sequence"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x3403"
+            ],
+            "name": "Modified Image Date"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x3406"
+            ],
+            "name": "Modified Image Description"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x3405"
+            ],
+            "name": "Modified Image Time"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x3401"
+            ],
+            "name": "Modifying Device ID"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x937B"
+            ],
+            "name": "Multi-energy Acquisition Description"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1060"
+            ],
+            "name": "Name of Physician(s) Reading Study"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1010"
+            ],
+            "name": "Names of Intended Recipients of Results"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1000"
+            ],
+            "name": "Network ID"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0552"
+            ],
+            "name": "Nonconforming Data Element Value"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0551"
+            ],
+            "name": "Nonconforming Modified Attributes Sequence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA192"
+            ],
+            "name": "Observation Date (Trial)"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA033"
+            ],
+            "name": "Observation Start DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA193"
+            ],
+            "name": "Observation Time (Trial)"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2180"
+            ],
+            "name": "Occupation"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2010"
+            ],
+            "name": "Order Callback Phone Number"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2011"
+            ],
+            "name": "Order Callback Telecom Information"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2008"
+            ],
+            "name": "Order Entered By"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2009"
+            ],
+            "name": "Order Enterer's Location"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0561"
+            ],
+            "name": "Original Attributes Sequence"
+        },
+        {
+            "tag": [
+                "0x2100",
+                "0x0070"
+            ],
+            "name": "Originator"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1000"
+            ],
+            "name": "Other Patient IDs"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1002"
+            ],
+            "name": "Other Patient IDs Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1001"
+            ],
+            "name": "Other Patient Names"
+        },
+        {
+            "tag": [
+                "0x60xx",
+                "0x4000"
+            ],
+            "name": "Overlay Comments"
+        },
+        {
+            "tag": [
+                "0x60xx",
+                "0x3000"
+            ],
+            "name": "Overlay Data"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0024"
+            ],
+            "name": "Overlay Date"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0034"
+            ],
+            "name": "Overlay Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA07A"
+            ],
+            "name": "Participant Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1040"
+            ],
+            "name": "Patient's Address"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1010"
+            ],
+            "name": "Patient's Age"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1005"
+            ],
+            "name": "Patient's Birth Name"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x0032"
+            ],
+            "name": "Patient's Birth Time"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0400"
+            ],
+            "name": "Patient's Institution Residence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x0050"
+            ],
+            "name": "Patient's Insurance Plan Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1060"
+            ],
+            "name": "Patient's Mother's Birth Name"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x0101"
+            ],
+            "name": "Patient's Primary Language Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x0102"
+            ],
+            "name": "Patient's Primary Language Modifier Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x21F0"
+            ],
+            "name": "Patient's Religious Preference"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1020"
+            ],
+            "name": "Patient's Size"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2155"
+            ],
+            "name": "Patient's Telecom Information"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2154"
+            ],
+            "name": "Patient's Telephone Numbers"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1030"
+            ],
+            "name": "Patient's Weight"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x4000"
+            ],
+            "name": "Patient Comments"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0794"
+            ],
+            "name": "Patient Setup Photo Description"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0500"
+            ],
+            "name": "Patient State"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1004"
+            ],
+            "name": "Patient Transport Arrangements"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0792"
+            ],
+            "name": "Patient Treatment Preparation Method Description"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x078E"
+            ],
+            "name": "Patient Treatment Preparation Procedure Parameter Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0243"
+            ],
+            "name": "Performed Location"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0254"
+            ],
+            "name": "Performed Procedure Step Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0250"
+            ],
+            "name": "Performed Procedure Step End Date"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4051"
+            ],
+            "name": "Performed Procedure Step End DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0251"
+            ],
+            "name": "Performed Procedure Step End Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0253"
+            ],
+            "name": "Performed Procedure Step ID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0244"
+            ],
+            "name": "Performed Procedure Step Start Date"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4050"
+            ],
+            "name": "Performed Procedure Step Start DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0245"
+            ],
+            "name": "Performed Procedure Step Start Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0241"
+            ],
+            "name": "Performed Station AE Title"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0241"
+            ],
+            "name": "Performed Station AE Title"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4030"
+            ],
+            "name": "Performed Station Geographic Location Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0242"
+            ],
+            "name": "Performed Station Name"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4028"
+            ],
+            "name": "Performed Station Name Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1050"
+            ],
+            "name": "Performing Physician's Name"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1052"
+            ],
+            "name": "Performing Physician Identification Sequence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1102"
+            ],
+            "name": "Person's Address"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1104"
+            ],
+            "name": "Person's Telecom Information"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1103"
+            ],
+            "name": "Person's Telephone Numbers"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1048"
+            ],
+            "name": "Physician(s) of Record"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1049"
+            ],
+            "name": "Physician(s) of Record Identification Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1062"
+            ],
+            "name": "Physician(s) Reading Study Identification Sequence"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0114"
+            ],
+            "name": "Physician Approving Interpretation"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1004"
+            ],
+            "name": "Plate ID"
+        },
+        {
+            "tag": [
+                "0x3002",
+                "0x0123"
+            ],
+            "name": "Position Acquisition Template Description"
+        },
+        {
+            "tag": [
+                "0x3002",
+                "0x0121"
+            ],
+            "name": "Position Acquisition Template Name"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x21C0"
+            ],
+            "name": "Pregnancy Status"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0012"
+            ],
+            "name": "Pre-Medication"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x000E"
+            ],
+            "name": "Prescription Description"
+        },
+        {
+            "tag": [
+                "0x0070",
+                "0x0082"
+            ],
+            "name": "Presentation Creation Date"
+        },
+        {
+            "tag": [
+                "0x0070",
+                "0x0083"
+            ],
+            "name": "Presentation Creation Time"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0061"
+            ],
+            "name": "Prior Treatment Dose Description"
+        },
+        {
+            "tag": [
+                "0xgggg",
+                "0xeeee where gggg is odd"
+            ],
+            "name": "Private Attributes"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4052"
+            ],
+            "name": "Procedure Step Cancellation DateTime"
+        },
+        {
+            "tag": [
+                "0x0044",
+                "0x000B"
+            ],
+            "name": "Product Expiration DateTime"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1088"
+            ],
+            "name": "Pyramid Description"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x0027"
+            ],
+            "name": "Pyramid Label"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1078"
+            ],
+            "name": "Radiopharmaceutical Start DateTime"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1072"
+            ],
+            "name": "Radiopharmaceutical Start Time"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1079"
+            ],
+            "name": "Radiopharmaceutical Stop DateTime"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1073"
+            ],
+            "name": "Radiopharmaceutical Stop Time"
+        },
+        {
+            "tag": [
+                "0x300C",
+                "0x0113"
+            ],
+            "name": "Reason for Omission Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x100A"
+            ],
+            "name": "Reason for Requested Procedure Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1030"
+            ],
+            "name": "Reason for Study"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2001"
+            ],
+            "name": "Reason for the Imaging Service Request"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1002"
+            ],
+            "name": "Reason for the Requested Procedure"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1066"
+            ],
+            "name": "Reason for Visit"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1067"
+            ],
+            "name": "Reason for Visit Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0074",
+                "0x1234"
+            ],
+            "name": "Receiving AE"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0402"
+            ],
+            "name": "Referenced Digital Signature Sequence"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0004"
+            ],
+            "name": "Referenced Patient Alias Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x1100"
+            ],
+            "name": "Referenced Patient Photo Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1120"
+            ],
+            "name": "Referenced Patient Sequence"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0403"
+            ],
+            "name": "Referenced SOP Instance MAC Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0092"
+            ],
+            "name": "Referring Physician's Address"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0094"
+            ],
+            "name": "Referring Physician's Telephone Numbers"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0096"
+            ],
+            "name": "Referring Physician Identification Sequence"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2152"
+            ],
+            "name": "Region of Residence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0275"
+            ],
+            "name": "Request Attributes Sequence"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1070"
+            ],
+            "name": "Requested Contrast Agent"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1400"
+            ],
+            "name": "Requested Procedure Comments"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1001"
+            ],
+            "name": "Requested Procedure ID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x1005"
+            ],
+            "name": "Requested Procedure Location"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9937"
+            ],
+            "name": "Requested Series Description"
+        },
+        {
+            "tag": [
+                "0x0074",
+                "0x1236"
+            ],
+            "name": "Requesting AE"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1032"
+            ],
+            "name": "Requesting Physician"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1033"
+            ],
+            "name": "Requesting Service"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9185"
+            ],
+            "name": "Respiratory Motion Compensation Technique Description"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2299"
+            ],
+            "name": "Responsible Organization"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2297"
+            ],
+            "name": "Responsible Person"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x4000"
+            ],
+            "name": "Results Comments"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0118"
+            ],
+            "name": "Results Distribution List Sequence"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0040"
+            ],
+            "name": "Results ID"
+        },
+        {
+            "tag": [
+                "0x4008",
+                "0x0042"
+            ],
+            "name": "Results ID Issuer"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0054"
+            ],
+            "name": "Retrieve AE Title"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0028"
+            ],
+            "name": "ROI Description"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0038"
+            ],
+            "name": "ROI Generation Description"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0088"
+            ],
+            "name": "ROI Observation Description"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0085"
+            ],
+            "name": "ROI Observation Label"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0004"
+            ],
+            "name": "RT Plan Description"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0003"
+            ],
+            "name": "RT Plan Name"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x001A"
+            ],
+            "name": "Scheduled Admission Date"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x001B"
+            ],
+            "name": "Scheduled Admission Time"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x001C"
+            ],
+            "name": "Scheduled Discharge Date"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x001D"
+            ],
+            "name": "Scheduled Discharge Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4034"
+            ],
+            "name": "Scheduled Human Performers Sequence"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x001E"
+            ],
+            "name": "Scheduled Patient Institution Residence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0006"
+            ],
+            "name": "Scheduled Performing Physician's Name"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x000B"
+            ],
+            "name": "Scheduled Performing Physician Identification Sequence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0007"
+            ],
+            "name": "Scheduled Procedure Step Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0004"
+            ],
+            "name": "Scheduled Procedure Step End Date"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0005"
+            ],
+            "name": "Scheduled Procedure Step End Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4008"
+            ],
+            "name": "Scheduled Procedure Step Expiration DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0009"
+            ],
+            "name": "Scheduled Procedure Step ID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0011"
+            ],
+            "name": "Scheduled Procedure Step Location"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4010"
+            ],
+            "name": "Scheduled Procedure Step Modification DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0002"
+            ],
+            "name": "Scheduled Procedure Step Start Date"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4005"
+            ],
+            "name": "Scheduled Procedure Step Start DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0003"
+            ],
+            "name": "Scheduled Procedure Step Start Time"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0001"
+            ],
+            "name": "Scheduled Station AE Title"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0001"
+            ],
+            "name": "Scheduled Station AE Title"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4027"
+            ],
+            "name": "Scheduled Station Geographic Location Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0010"
+            ],
+            "name": "Scheduled Station Name"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x4025"
+            ],
+            "name": "Scheduled Station Name Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1020"
+            ],
+            "name": "Scheduled Study Location"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1021"
+            ],
+            "name": "Scheduled Study Location AE Title"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1021"
+            ],
+            "name": "Scheduled Study Location AE Title"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1000"
+            ],
+            "name": "Scheduled Study Start Date"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1001"
+            ],
+            "name": "Scheduled Study Start Time"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1010"
+            ],
+            "name": "Scheduled Study Stop Date"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1011"
+            ],
+            "name": "Scheduled Study Stop Time"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x103E"
+            ],
+            "name": "Series Description"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0062"
+            ],
+            "name": "Service Episode Description"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0060"
+            ],
+            "name": "Service Episode ID"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x01B2"
+            ],
+            "name": "Setup Technique Description"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x01A6"
+            ],
+            "name": "Shielding Device Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x06FA"
+            ],
+            "name": "Slide Identifier"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x21A0"
+            ],
+            "name": "Smoking Status"
+        },
+        {
+            "tag": [
+                "0x0100",
+                "0x0420"
+            ],
+            "name": "SOP Authorization DateTime"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0216"
+            ],
+            "name": "Source Manufacturer"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x0050"
+            ],
+            "name": "Special Needs"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x050A"
+            ],
+            "name": "Specimen Accession Number"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0602"
+            ],
+            "name": "Specimen Detailed Description"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0600"
+            ],
+            "name": "Specimen Short Description"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0055"
+            ],
+            "name": "Station AE Title"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0006"
+            ],
+            "name": "Structure Set Description"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0004"
+            ],
+            "name": "Structure Set Name"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1040"
+            ],
+            "name": "Study Arrival Date"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1041"
+            ],
+            "name": "Study Arrival Time"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x4000"
+            ],
+            "name": "Study Comments"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1050"
+            ],
+            "name": "Study Completion Date"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1051"
+            ],
+            "name": "Study Completion Time"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1030"
+            ],
+            "name": "Study Description"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x0012"
+            ],
+            "name": "Study ID Issuer"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x0034"
+            ],
+            "name": "Study Read Date"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x0035"
+            ],
+            "name": "Study Read Time"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x0032"
+            ],
+            "name": "Study Verified Date"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x0033"
+            ],
+            "name": "Study Verified Time"
+        },
+        {
+            "tag": [
+                "0x0044",
+                "0x0010"
+            ],
+            "name": "Substance Administration DateTime"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA354"
+            ],
+            "name": "Telephone Number (Trial)"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xDB07"
+            ],
+            "name": "Template Local Version"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xDB06"
+            ],
+            "name": "Template Version"
+        },
+        {
+            "tag": [
+                "0x4000",
+                "0x4000"
+            ],
+            "name": "Text Comments"
+        },
+        {
+            "tag": [
+                "0x2030",
+                "0x0020"
+            ],
+            "name": "Text String"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA112"
+            ],
+            "name": "Time of Document or Verbal Transaction (Trial)"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1201"
+            ],
+            "name": "Time of Last Calibration"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1014"
+            ],
+            "name": "Time of Secondary Capture"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0201"
+            ],
+            "name": "Timezone Offset From UTC"
+        },
+        {
+            "tag": [
+                "0x0088",
+                "0x0910"
+            ],
+            "name": "Topic Author"
+        },
+        {
+            "tag": [
+                "0x0088",
+                "0x0912"
+            ],
+            "name": "Topic Keywords"
+        },
+        {
+            "tag": [
+                "0x0088",
+                "0x0906"
+            ],
+            "name": "Topic Subject"
+        },
+        {
+            "tag": [
+                "0x0088",
+                "0x0904"
+            ],
+            "name": "Topic Title"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x5011"
+            ],
+            "name": "Transducer Identification Sequence"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x000B"
+            ],
+            "name": "Treatment Sites"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x100A"
+            ],
+            "name": "UDI Sequence"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1009"
+            ],
+            "name": "Unique Device Identifier"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA352"
+            ],
+            "name": "Verbal Source (Trial)"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA358"
+            ],
+            "name": "Verbal Source Identifier Code Sequence (Trial)"
+        },
+        {
+            "tag": [
+                "0x0038",
+                "0x4000"
+            ],
+            "name": "Visit Comments"
+        },
+        {
+            "tag": [
+                "0x003A",
+                "0x0329"
+            ],
+            "name": "\u200bWaveform Filter Description"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9373"
+            ],
+            "name": "X-Ray Detector Label"
+        }
+    ],
+    "X_D_TAGS": [
+        {
+            "tag": [
+                "0x0018",
+                "0x1400"
+            ],
+            "name": "Acquisition Device Processing Description"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x700C"
+            ],
+            "name": "Date of Last Detector Calibration"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x700A"
+            ],
+            "name": "Detector ID"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9517"
+            ],
+            "name": "End Acquisition DateTime"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0054"
+            ],
+            "name": "First Treatment Date"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0012"
+            ],
+            "name": "Instance Creation Date"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x004D"
+            ],
+            "name": "Intended Phase End Date"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x004C"
+            ],
+            "name": "Intended Phase Start Date"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0056"
+            ],
+            "name": "Most Recent Treatment Date"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA032"
+            ],
+            "name": "Observation DateTime"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1072"
+            ],
+            "name": "Operator Identification Sequence"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1030"
+            ],
+            "name": "Protocol Name"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0006"
+            ],
+            "name": "RT Plan Date"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0007"
+            ],
+            "name": "RT Plan Time"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0056"
+            ],
+            "name": "RT Treatment Approach Label"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0021"
+            ],
+            "name": "Series Date"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0031"
+            ],
+            "name": "Series Time"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9516"
+            ],
+            "name": "Start Acquisition DateTime"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x700E"
+            ],
+            "name": "Time of Last Detector Calibration"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0250"
+            ],
+            "name": "Treatment Date"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0077"
+            ],
+            "name": "Treatment Site"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0251"
+            ],
+            "name": "Treatment Time"
+        }
+    ],
+    "X_Z_TAGS": [
+        {
+            "tag": [
+                "0x0040",
+                "0x0555"
+            ],
+            "name": "Acquisition Context Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0022"
+            ],
+            "name": "Acquisition Date"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0032"
+            ],
+            "name": "Acquisition Time"
+        },
+        {
+            "tag": [
+                "0x2200",
+                "0x0005"
+            ],
+            "name": "Barcode Value"
+        },
+        {
+            "tag": [
+                "0x2200",
+                "0x0002"
+            ],
+            "name": "Label Text"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x2203"
+            ],
+            "name": "Patient's Sex Neutered"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1110"
+            ],
+            "name": "Referenced Study Sequence"
+        },
+        {
+            "tag": [
+                "0x0032",
+                "0x1060"
+            ],
+            "name": "Requested Procedure Description"
+        },
+        {
+            "tag": [
+                "0x300E",
+                "0x0008"
+            ],
+            "name": "Reviewer Name"
+        },
+        {
+            "tag": [
+                "0x3008",
+                "0x0105"
+            ],
+            "name": "Source Serial Number"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x00B2"
+            ],
+            "name": "Treatment Machine Name"
+        }
+    ],
+    "X_Z_D_TAGS": [
+        {
+            "tag": [
+                "0x0008",
+                "0x002A"
+            ],
+            "name": "Acquisition DateTime"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1000"
+            ],
+            "name": "Device Serial Number"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0013"
+            ],
+            "name": "Instance Creation Time"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0082"
+            ],
+            "name": "Institution Code Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0080"
+            ],
+            "name": "Institution Name"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1070"
+            ],
+            "name": "Operators' Name"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1111"
+            ],
+            "name": "Referenced Performed Procedure Step Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x1010"
+            ],
+            "name": "Station Name"
+        }
+    ],
+    "X_Z_U_STAR_TAGS": [
+        {
+            "tag": [
+                "0x0008",
+                "0x1140"
+            ],
+            "name": "Referenced Image Sequence"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x2112"
+            ],
+            "name": "Source Image Sequence"
+        }
+    ],
+    "Z_TAGS": [
+        {
+            "tag": [
+                "0x0008",
+                "0x0050"
+            ],
+            "name": "Accession Number"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1203"
+            ],
+            "name": "Calibration DateTime"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0060"
+            ],
+            "name": "Clinical Trial Coordinating Center Name"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0021"
+            ],
+            "name": "Clinical Trial Protocol Name"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0030"
+            ],
+            "name": "Clinical Trial Site ID"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0031"
+            ],
+            "name": "Clinical Trial Site Name"
+        },
+        {
+            "tag": [
+                "0x0012",
+                "0x0050"
+            ],
+            "name": "Clinical Trial Time Point ID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x000F"
+            ],
+            "name": "Conceptual Volume Combination Description"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0017"
+            ],
+            "name": "Conceptual Volume Description"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x009C"
+            ],
+            "name": "Consulting Physician's Name"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x001B"
+            ],
+            "name": "Device Alternate Identifier"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2017"
+            ],
+            "name": "Filler Order Number / Imaging Service Request"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x007F"
+            ],
+            "name": "Fractionation Notes"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0513"
+            ],
+            "name": "Issuer of the Container Identifier Sequence"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0562"
+            ],
+            "name": "Issuer of the Specimen Identifier Sequence"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0043"
+            ],
+            "name": "Manufacturer's Device Identifier"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA082"
+            ],
+            "name": "Participation DateTime"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x0030"
+            ],
+            "name": "Patient's Birth Date"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x0010"
+            ],
+            "name": "Patient's Name"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x0040"
+            ],
+            "name": "Patient's Sex"
+        },
+        {
+            "tag": [
+                "0x0010",
+                "0x0020"
+            ],
+            "name": "Patient ID"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x2016"
+            ],
+            "name": "Placer Order Number / Imaging Service Request"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x007B"
+            ],
+            "name": "Prescription Notes"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x0081"
+            ],
+            "name": "Prescription Notes Sequence"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x067D"
+            ],
+            "name": "Radiation Generation Mode Description"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x005C"
+            ],
+            "name": "Reason for Superseding"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0090"
+            ],
+            "name": "Referring Physician's Name"
+        },
+        {
+            "tag": [
+                "0x300E",
+                "0x0004"
+            ],
+            "name": "Review Date"
+        },
+        {
+            "tag": [
+                "0x300E",
+                "0x0005"
+            ],
+            "name": "Review Time"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x00A6"
+            ],
+            "name": "ROI Interpreter"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0026"
+            ],
+            "name": "ROI Name"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0615"
+            ],
+            "name": "RT Accessory Device Slot ID"
+        },
+        {
+            "tag": [
+                "0x300A",
+                "0x0611"
+            ],
+            "name": "RT Accessory Holder Slot ID"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x005A"
+            ],
+            "name": "RT Physician Intent Narrative"
+        },
+        {
+            "tag": [
+                "0x0400",
+                "0x0564"
+            ],
+            "name": "Source of Previous Values"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0x0610"
+            ],
+            "name": "Specimen Preparation Sequence"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0008"
+            ],
+            "name": "Structure Set Date"
+        },
+        {
+            "tag": [
+                "0x3006",
+                "0x0009"
+            ],
+            "name": "Structure Set Time"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0020"
+            ],
+            "name": "Study Date"
+        },
+        {
+            "tag": [
+                "0x0020",
+                "0x0010"
+            ],
+            "name": "Study ID"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0030"
+            ],
+            "name": "Study Time"
+        },
+        {
+            "tag": [
+                "0x3010",
+                "0x007A"
+            ],
+            "name": "Treatment Technique Notes"
+        },
+        {
+            "tag": [
+                "0x0040",
+                "0xA088"
+            ],
+            "name": "Verifying Observer Identification Code Sequence"
+        }
+    ],
+    "Z_D_TAGS": [
+        {
+            "tag": [
+                "0x0070",
+                "0x0084"
+            ],
+            "name": "Content Creator's Name"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0023"
+            ],
+            "name": "Content Date"
+        },
+        {
+            "tag": [
+                "0x0008",
+                "0x0033"
+            ],
+            "name": "Content Time"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x0010"
+            ],
+            "name": "Contrast/Bolus Agent"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x9919"
+            ],
+            "name": "Instruction Performed DateTime"
+        }
+    ]
+}
