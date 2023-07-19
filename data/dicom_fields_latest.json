@@ -1353,6 +1353,7 @@
                 "0x50xx",
                 "0xxxxx"
             ],
+            "info": "special",
             "name": "Curve Data"
         },
         {
@@ -1393,9 +1394,23 @@
         {
             "tag": [
                 "0x0018",
+                "0x1205"
+            ],
+            "name": "Date of Installation"
+        },
+        {
+            "tag": [
+                "0x0018",
                 "0x1200"
             ],
             "name": "Date of Last Calibration"
+        },
+        {
+            "tag": [
+                "0x0018",
+                "0x1204"
+            ],
+            "name": "Date of Manufacture"
         },
         {
             "tag": [
@@ -2347,6 +2362,7 @@
                 "0x60xx",
                 "0x4000"
             ],
+            "info": "special",
             "name": "Overlay Comments"
         },
         {
@@ -2354,6 +2370,7 @@
                 "0x60xx",
                 "0x3000"
             ],
+            "info": "special",
             "name": "Overlay Data"
         },
         {
@@ -2590,13 +2607,6 @@
         {
             "tag": [
                 "0x0040",
-                "0x0241"
-            ],
-            "name": "Performed Station AE Title"
-        },
-        {
-            "tag": [
-                "0x0040",
                 "0x4030"
             ],
             "name": "Performed Station Geographic Location Code Sequence"
@@ -2740,6 +2750,14 @@
                 "0x0061"
             ],
             "name": "Prior Treatment Dose Description"
+        },
+        {
+            "tag": [
+                "0xgggg",
+                "0xeeee"
+            ],
+            "info": "special:`where gggg is odd`",
+            "name": "Private Attributes"
         },
         {
             "tag": [
@@ -3213,13 +3231,6 @@
         {
             "tag": [
                 "0x0040",
-                "0x0001"
-            ],
-            "name": "Scheduled Station AE Title"
-        },
-        {
-            "tag": [
-                "0x0040",
                 "0x4027"
             ],
             "name": "Scheduled Station Geographic Location Code Sequence"
@@ -3244,13 +3255,6 @@
                 "0x1020"
             ],
             "name": "Scheduled Study Location"
-        },
-        {
-            "tag": [
-                "0x0032",
-                "0x1021"
-            ],
-            "name": "Scheduled Study Location AE Title"
         },
         {
             "tag": [
