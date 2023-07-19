@@ -355,13 +355,13 @@ def generate_actions(tag_list: list, action: str or Callable, options: dict = No
     return {tag: final_action for tag in tag_list}
 
 
-def initialize_actions() -> dict:
+def initialize_actions() -> Dict[str, Callable]:
     """
     Initialize anonymization actions with DICOM standard values
     Returns:
         dict: dictionary of anonymization actions
     """
-    anonymization_actions = generate_actions(D_TAGS, actions_map_name_functions["replace"])
+    anonymization_actions: Dict[str, Callable] = generate_actions(D_TAGS, actions_map_name_functions["replace"])
     anonymization_actions.update(generate_actions(Z_TAGS, actions_map_name_functions["empty"]))
     anonymization_actions.update(generate_actions(X_TAGS, actions_map_name_functions["delete"]))
     anonymization_actions.update(generate_actions(U_TAGS, actions_map_name_functions["replace_UID"]))
